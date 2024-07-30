@@ -5,5 +5,5 @@
 - 📱contato:(61)-992722201
 - 📥email : palmeiravictor53@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=noctis_minimus)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhphugo&show_icons=true&theme=noctis_minimus)
 
