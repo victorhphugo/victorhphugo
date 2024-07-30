@@ -1,4 +1,4 @@
-## olá ! Sou o Victor Hugo 👋
+## ** Olá ! Sou o Victor Hugo 👋
 - 📊Atualmente estudando Data Science 
 - 📚 Estudante de Inteligencia Artificial
 - 🐍Python
