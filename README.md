@@ -1,6 +1,6 @@
 ## Olá ! Sou o Victor Hugo 👋
-- 📊Atualmente estudando Data Science 
-- 📚 Estudante de Inteligencia Artificial
+- 📊 Formado em Data Science 
+- 📚 Formado em  Inteligencia Artificial
 - 🐍Python
 - 📱contato:(61)-992722201
 - 📥email : palmeiravictor53@gmail.com
